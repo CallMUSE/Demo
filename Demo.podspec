@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "Demo"
-  spec.version      = "0.0.1"
+  #spec.version      = "0.0.1"
   spec.summary      = "iOS:测试私有库制作"
 
   # This description is used to generate tags and improve search results.
